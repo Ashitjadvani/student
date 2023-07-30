@@ -1,2 +1,7 @@
-node_modules/
-    
+fe/node_modules
+fe/.angular
+fe/package-lock.json
+be/node_modules
+be/package-lock.json
+be/.env
+
