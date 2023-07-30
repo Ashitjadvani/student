@@ -1,0 +1,27 @@
+.image img{
+    background-color: antiquewhite;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    align-items: center;
+    margin: 5px;
+}.error-snackbar {
+    background-color: #f44336;
+    color: #fff;
+  }
+  
+  .success-snackbar {
+    background-color: #4caf50;
+    color: #fff;
+  }
+  .header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .search-and-filter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
